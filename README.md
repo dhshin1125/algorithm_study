@@ -4,7 +4,7 @@ algorithm study for aivle school 13jo
 ## member
 
 ## reference book
-![book](./img/알고리즘 코딩 테스트.jpg)
+![알고리즘 코딩 테스트](https://github.com/dhshin1125/algorithm_study/assets/123342699/ce5c42de-76e4-4f40-b555-252261c67ad6)
 
 https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=299409119
 
