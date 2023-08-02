@@ -13,5 +13,5 @@ def solution(num):
             num = num * 3 + 1
     if count == 500:
         count = -1
-    
+        
     return count
