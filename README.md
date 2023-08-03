@@ -1,5 +1,7 @@
 # Algorithm_study
-algorithm study for aivle school 3th AI 13jo
+Algorithm study for aivle school 3th AI Group 13
+
+Starting on 8/1, 2023
 
 ## Member
 
