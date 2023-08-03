@@ -9,7 +9,7 @@ algorithm study for aivle school 13jo
 https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=299409119
 
 ## PS list
-### ![프로그래머스](programmers.co.kr)
+### [프로그래머스](programmers.co.kr)
 ##### 8/1 ~ 8/2
 - 정수 내림차순으로 배치하기 
 - 3진법 뒤집기 
