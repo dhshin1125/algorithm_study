@@ -11,8 +11,8 @@ Starting on 8/1, 2023
 https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=299409119
 
 ## PS list
-### [프로그래머스(★)](programmers.co.kr)
-### [SW Expert Academy(◆)](swexpertacademy.com/)
+### [프로그래머스(★)](http://programmers.co.kr)
+### [SW Expert Academy(◆)](http://swexpertacademy.com/)
 ##### 8/1 ~ 8/2
 - [정수 내림차순으로 배치하기(★)](https://school.programmers.co.kr/learn/courses/30/lessons/12933)
 - [3진법 뒤집기(★)](https://school.programmers.co.kr/learn/courses/30/lessons/68935)
