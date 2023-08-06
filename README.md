@@ -37,5 +37,9 @@ https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=299409119
 - [폰켓몬(★)](https://school.programmers.co.kr/learn/courses/30/lessons/1845)
 - [추억 점수(★)](https://school.programmers.co.kr/learn/courses/30/lessons/176963)
 
-##### 8/3 ~
+##### 8/3 ~ 8/7
 - [\[2001\] 파리 퇴치(◆)](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PzOCKAigDFAUq&categoryId=AV5PzOCKAigDFAUq&categoryType=CODE&problemTitle=2001)
+- [크레인 인형뽑기 게임](https://school.programmers.co.kr/learn/courses/30/lessons/64061)
+- [성격 유형 검사하기](https://school.programmers.co.kr/learn/courses/30/lessons/118666)
+- [개인정보 수집 유효기간](https://school.programmers.co.kr/learn/courses/30/lessons/150370)
+- [달리기 경주](https://school.programmers.co.kr/learn/courses/30/lessons/178871)
