@@ -10,7 +10,7 @@ Starting on 8/1, 2023
 https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=299409119
 
 ## Notice
-### - [과제 업로드 방법](markdown/Notice/HowToUpload.md)
+### - [과제 업로드 방법](markdown/Notice/upload_guide/HowToUpload.md)
 
 
 ## Study Reference
