@@ -7,39 +7,22 @@ Starting on 8/1, 2023
 
 ## Reference book
 ![알고리즘 코딩 테스트](https://github.com/dhshin1125/algorithm_study/assets/123342699/ce5c42de-76e4-4f40-b555-252261c67ad6)
-
 https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=299409119
 
-## PS list
-### [프로그래머스(★)](http://programmers.co.kr)
-### [SW Expert Academy(◆)](http://swexpertacademy.com/)
-##### 8/1 ~ 8/2
-- [정수 내림차순으로 배치하기(★)](https://school.programmers.co.kr/learn/courses/30/lessons/12933)
-- [3진법 뒤집기(★)](https://school.programmers.co.kr/learn/courses/30/lessons/68935)
-- [최대공약수와 최소공배수(★)](https://school.programmers.co.kr/learn/courses/30/lessons/12940)
-- [최소직사각형(★)](https://school.programmers.co.kr/learn/courses/30/lessons/86491)
-- [햄버거 만들기(★)](https://school.programmers.co.kr/learn/courses/30/lessons/133502) 
-- [옹알이(2)(★)](https://school.programmers.co.kr/learn/courses/30/lessons/133499)
-- [기사단원의 무기(★)](https://school.programmers.co.kr/learn/courses/30/lessons/136798)
-- [모의고사(★)](https://school.programmers.co.kr/learn/courses/30/lessons/42840)
-- [신고 결과 받기(★)](https://school.programmers.co.kr/learn/courses/30/lessons/92334)
-- [크기가 작은 부분 문자열(★)](https://school.programmers.co.kr/learn/courses/30/lessons/147355)
+## Notice
+### - [과제 업로드 방법](markdown/Notice/HowToUpload.md)
 
-##### 8/2 ~ 8/3
-- [신규 아이디 추천(★)](https://school.programmers.co.kr/learn/courses/30/lessons/72410)
-- [키패드 누르기(★)](https://school.programmers.co.kr/learn/courses/30/lessons/67256)
-- [로또의 최고 순위와 최저 순위(★)](https://school.programmers.co.kr/learn/courses/30/lessons/77484)
-- [\[1차\] 다트 게임(★)](https://school.programmers.co.kr/learn/courses/30/lessons/17682)
-- [실패율(★)](https://school.programmers.co.kr/learn/courses/30/lessons/42889)
-- [\[1차\] 비밀지도(★)](https://school.programmers.co.kr/learn/courses/30/lessons/17681)
-- [숫자 문자열과 영단어(★)](https://school.programmers.co.kr/learn/courses/30/lessons/81301)
-- [카드 뭉치(★)](https://school.programmers.co.kr/learn/courses/30/lessons/159994)
-- [폰켓몬(★)](https://school.programmers.co.kr/learn/courses/30/lessons/1845)
-- [추억 점수(★)](https://school.programmers.co.kr/learn/courses/30/lessons/176963)
 
-##### 8/3 ~ 8/9
-- [\[2001\] 파리 퇴치(◆)](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PzOCKAigDFAUq&categoryId=AV5PzOCKAigDFAUq&categoryType=CODE&problemTitle=2001)
-- [크레인 인형뽑기 게임(★)](https://school.programmers.co.kr/learn/courses/30/lessons/64061)
-- [성격 유형 검사하기(★)](https://school.programmers.co.kr/learn/courses/30/lessons/118666)
-- [개인정보 수집 유효기간(★)](https://school.programmers.co.kr/learn/courses/30/lessons/150370)
-- [달리기 경주(★)](https://school.programmers.co.kr/learn/courses/30/lessons/178871)
+## Study Reference
+- [나동빈 유튜브](https://youtu.be/m-9pAwq1o3w)
+- [바킹독 유튜브](https://youtu.be/LcOIobH7ues)
+- [하루코딩 유튜브](https://www.youtube.com/@codingtest/)
+- [개발자 장고 유튜브](https://youtu.be/pvufY7rK7VA)
+- [스윗지니 유튜브](https://www.youtube.com/@swithgenie/videos)
+- [코데풀 유튜브](https://www.youtube.com/@codapul/playlists)
+
+## 스터디 
+### - [1회차 스터디](markdown/StudyLog/001.study.md)
+### - [2회차 스터디](markdown/StudyLog/002.study.md)
+### - [3회차 스터디](markdown/StudyLog/003.study.md)
+
