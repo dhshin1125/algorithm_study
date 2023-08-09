@@ -5,4 +5,4 @@ def solution(n):
         answer += str(mod)
         n = div
 
-    return int(answer,3)우
+    return int(answer,3)
