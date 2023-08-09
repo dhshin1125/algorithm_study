@@ -54,4 +54,22 @@
 #### (5). Click Create Pull request
 ![img_1.png](../../img/notice/5_4_1.png)
 
+### E. Complete!
+![img.png](../../img/notice/5_5_1.png)
+
 ## 6. Sync your Repository from Origin Repository
+
+### A. Go to your Forked Repository
+#### (1) Click Sync the Fork
+#### (2) Click Update branch
+![img.png](6_1_1.png)
+
+### B. Complete to Sync Origin Repository to Forked Repository
+![img.png](6_2_1.png)
+
+### C. Sync By Pull 
+#### (1) Menu bar → Git(VCS) → Pull
+![img.png](img.png)
+
+#### (2) 
+
