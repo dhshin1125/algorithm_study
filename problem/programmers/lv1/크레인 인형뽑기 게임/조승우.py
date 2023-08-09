@@ -26,4 +26,4 @@ def solution(board, moves):
                 ret.pop()
                 ret.pop()
                 answer += 2
-    return answer우
+    return answer

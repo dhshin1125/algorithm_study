@@ -21,4 +21,4 @@ def solution(today, terms, privacies):
         p = v.split(" ")
         if calculate(today, p[0], p[1], term_day):
             answer.append(i + 1)
-    return answer우
+    return answer

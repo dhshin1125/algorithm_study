@@ -1,5 +1,5 @@
 from collections import deque
-우
+
 def solution(cards1, cards2, goal):
     c1, c2 = 0, 0
     g = deque(goal)

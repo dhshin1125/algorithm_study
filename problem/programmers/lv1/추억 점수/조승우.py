@@ -12,4 +12,4 @@ def solution(name, yearning, photos):
                 score += name_score[p]
         answer.append(score)
 
-    return answer우
+    return answer
