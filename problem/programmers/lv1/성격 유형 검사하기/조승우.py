@@ -17,4 +17,4 @@ def solution(survey, choices):
         else:
             answer += second
 
-    return answer우
+    return answer
